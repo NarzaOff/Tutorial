@@ -1,4 +1,4 @@
-<h3 align="center">Tutorial Resources</h3>
+<h1 align="center">Tutorial Resources</h1>
 
-<h1 align="center">by Narzay</h1>
+<h3 align="center">by Narzay</h3>
 
